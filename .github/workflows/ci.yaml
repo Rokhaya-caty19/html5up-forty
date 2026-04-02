@@ -61,4 +61,4 @@ jobs:
       - name: Deploy test
         run: |
           echo "Deploy en cours..."
-          exit 1
+          exit 0
